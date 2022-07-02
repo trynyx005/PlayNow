@@ -2,9 +2,9 @@
 <addon id="repository.PlayNow" name="PlayNow REPO" version="1.0" provider-name="Trynyx005">
     <extension point="xbmc.addon.repository" name="Nome Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/trynyx005/PlayNow/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/trynyx005/PlayNow/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/trynyx005/PlayNow/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/trynyx005/PlayNow/main/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/trynyx005/PlayNow/main/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/trynyx005/PlayNow/main/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
