@@ -33,7 +33,7 @@ link_contador = "https://whos.amung.us/pingjs/"
 
 ##CONFIGURAÇÕES
 ####  TITULO DO MENU  #################################################################
-title_menu = "[B][COLOR white]PlayNow[/COLOR][/B]"
+title_menu = "[B][COLOR red]Seja Bem-Vindo(a) ao PLAYNOW[/COLOR][/B]"
 ###  DESCRIÇÃO DO ADDON ###############################################################
 title_descricao = "Assista Filmes e Séries sem limites"
 
