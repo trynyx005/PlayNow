@@ -58,7 +58,7 @@ menu_configuracoes = "[B][COLOR red]CONFIGURAÇÕES[/COLOR][/B]"
 thumb_icon_config = 'https://i.imgur.com/'
 desc_configuracoes = "Configurações"
 ## FAVORITOS
-menu_favoritos = '[B][COLOR yellow]|[/COLOR][COLOR white]FAVORITOS[/COLOR][COLOR yellow]|[/COLOR][/B]'
+menu_favoritos = '[B][COLOR orange]|[/COLOR][COLOR white]FAVORITOS[/COLOR][COLOR yellow]|[/COLOR][/B]'
 thumb_favoritos = 'https://i.imgur.com/'
 desc_favoritos = 'Adicione Itens aos Favoritos, pressionando OK do controle ou clicando o direito e selecionando Adicionar aos favoritos'
 
