@@ -63,13 +63,13 @@ thumb_favoritos = 'https://i.imgur.com/'
 desc_favoritos = 'Adicione Itens aos Favoritos, pressionando OK do controle ou clicando o direito e selecionando Adicionar aos favoritos'
 
 #### MENU VIP ################################################################
-titulo_vip = "[B][COLOR white]EXEMPLO[/COLOR] - [COLOR gold](VIP)[/COLOR][/B]"
+titulo_vip = "[B][COLOR orange]EXEMPLO[/COLOR] - [COLOR gold](VIP)[/COLOR][/B]"
 thumbnail_vip = 'https://i.imgur.com/'
 fanart_vip = 'https://i.imgur.com/'
 #### DESCRIÇÃO VIP ###########################################################
 vip_descricao = 'SOLICITE SEU TESTE VIP'
 #### DIALOGO VIP - SERVIDOR DESATIVADO - CLICK ###################################
-vip_dialogo = "[B][COLOR white]CONFIGURE SEU ACESSO[/COLOR][/B]"
+vip_dialogo = "[B][COLOR gray]CONFIGURE SEU ACESSO[/COLOR][/B]"
 ##SERIVODR VIP
 url_server_vip1 = ''
 url_server_vip = ''
